@@ -31,5 +31,5 @@ async def on_ready():
 # ------------------------ RUN ------------------------ # 
 with open("config.json", "r") as config:
     data = json.load(config)
-    token = data["token"]
+    token = data["ODM0ODc0NTg2MjAxNDU2NjQw.GIwW8b.XeLcNzG3wblqKO-j_itKj_VtzfKD-M1AIdn530"]
 bot.run(token) 
